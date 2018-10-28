@@ -1,0 +1,25 @@
+title: Leipziger Initiative gegen Islamismus
+description: Leipziger Initiative gegen Islamismus
+
+url: https://gegenislamismus.github.io
+baseurl: ""
+permalink: blog/:title/
+
+markdown: kramdown
+highlighter: blue
+
+navigation:
+ - title: Home
+   url: /index.html
+ - title: About
+   url: /about
+ - title: Contact
+   url: /contact
+
+social:
+   github:
+   twitter: intitiative.gegen.islamismus
+   facebook: intitiative.gegen.islamismus
+   email: intitiative.gegen.islamismus@protonmail.com
+
+google_analytics:
