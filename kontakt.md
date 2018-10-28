@@ -9,7 +9,7 @@ title: Kontakt
     <p class="intro">Lorem ipsum dolor sit amet, consetetur sadipscing elitr.</p>
     <p>Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et.</p>
   </div>
-  <form action="http://formspree.io/intitiative.gegen.islamismus@protonmail.com" method="POST">
+  <form action="https://formspree.io/intitiative.gegen.islamismus@protonmail.com" method="POST">
     <label for="name">Name</label>
     <input type="text" id="name" name="name" class="full-width"><br>
     <label for="email">Email Address</label>
