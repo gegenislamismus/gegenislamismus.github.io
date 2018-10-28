@@ -1,10 +1,10 @@
 ---
 layout: default
-title: Contact
+title: Kontakt
 ---
 
 <div id="contact">
-  <h1 class="pageTitle">Contact</h1>
+  <h1 class="pageTitle">Kontakt</h1>
   <div class="contactContent">
     <p class="intro">Lorem ipsum dolor sit amet, consetetur sadipscing elitr.</p>
     <p>Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et.</p>

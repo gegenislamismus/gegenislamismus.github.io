@@ -6,15 +6,14 @@ baseurl: ""
 permalink: blog/:title/
 
 markdown: kramdown
-highlighter: blue
 
 navigation:
- - title: Home
+ - title: Aufruf
    url: /index.html
- - title: About
-   url: /about
- - title: Contact
-   url: /contact
+ - title: Kundgebung
+   url: /kundgebung
+ - title: Kontakt
+   url: /kontakt
 
 social:
    github:
