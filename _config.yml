@@ -12,6 +12,8 @@ navigation:
    url: /index.html
  - title: Kontakt
    url: /kontakt
+ - title: Facebook
+   url: https://www.facebook.com/Leipziger-Initiative-gegen-Islamismus-2191724911109853
 
 social:
    github:

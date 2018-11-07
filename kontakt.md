@@ -9,6 +9,8 @@ title: Kontakt
     <p>
       <b>E-Mail:</b> gegen.islamismus[at]protonmail.com<br>
       <a href="{{ site.url }}/assets/publickey.gegen.islamismus@protonmail.com.asc">PGP Public Key</a>
+      <br><br>
+      <a href="https://www.facebook.com/Leipziger-Initiative-gegen-Islamismus-2191724911109853">Facebook</a>
     </p>
 
   </div>
