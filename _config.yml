@@ -10,6 +10,8 @@ markdown: kramdown
 navigation:
  - title: Aufruf
    url: /index.html
+ - title: Selbstverständnis
+   url: /selbstverstaendnis
  - title: Kontakt
    url: /kontakt
  - title: Facebook
