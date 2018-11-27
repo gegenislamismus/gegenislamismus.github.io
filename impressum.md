@@ -9,11 +9,10 @@ title: Impressum
 
 <h4> Angaben gem&auml;&szlig; &sect; 5 TMG:</h4>
 
-Name: folgt in k&uuml;rze&nbsp;<br>
-Stra&szlig;e, Nr.:&nbsp;<br>
-PLZ:&nbsp;<br>
-Ort:&nbsp;<br>
-
+Name: S. Anderson<br>
+Stra&szlig;e, Nr.:&nbsp; Arno-Nietzsche Straße 44<br>
+PLZ:&nbsp;04277<br>
+Ort:&nbsp;Leipzig<br>
 
 <br><b> Kontakt:</b><br>
 

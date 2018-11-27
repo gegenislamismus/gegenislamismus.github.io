@@ -12,6 +12,8 @@ navigation:
    url: /index.html
  - title: Selbstverständnis
    url: /selbstverstaendnis
+ - title: Material
+   url: /material
  - title: Kontakt
    url: /kontakt
  - title: Facebook
