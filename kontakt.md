@@ -11,6 +11,8 @@ title: Kontakt
       <a href="{{ site.url }}/assets/publickey.gegen.islamismus@protonmail.com.asc">PGP Public Key</a>
       <br><br>
       <a href="https://www.facebook.com/Leipziger-Initiative-gegen-Islamismus-2191724911109853">Facebook</a>
+      <br><br>
+      <b>Spenden via Bitcoin:</b> 3KgZ1fNuRNxynajVFgXHoCKuNKcphTPrUJ<br>
     </p>
 
   </div>
