@@ -12,6 +12,8 @@ navigation:
    url: /index.html
  - title: Selbstverständnis
    url: /selbstverstaendnis
+ - title: Grußworte
+   url: /grussworte
  - title: Material
    url: /material
  - title: Kontakt
